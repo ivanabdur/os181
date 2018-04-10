@@ -11,4 +11,4 @@ ZCZC W04 Week04: Beres!
 
 ZCZC W05 Week05: Sudah
 
-ZCZC W06 Week6: Done!
+ZCZC W06 Week06: Done!
