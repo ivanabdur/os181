@@ -13,4 +13,6 @@ ZCZC W05 Week05: Sudah
 
 ZCZC W06 Week06: Done!
 
-ZCZC W05 Week07: Siap selesai
+ZCZC W07 Week07: Siap selesai
+
+ZCZC W08 Week08: Siap sudah 
