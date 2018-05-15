@@ -18,3 +18,5 @@ ZCZC W07 Week07: Siap selesai
 ZCZC W08 Week08: Siap sudah 
 
 ZCZC W09 Week09: Siap beres!
+
+ZCZC W010 Week010: Sudah mencoba demo week 10
